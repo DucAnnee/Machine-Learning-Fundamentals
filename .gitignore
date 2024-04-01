@@ -1,3 +1,4 @@
 
 Algorithms/.prettierignore
 *.csv
+/Deep Learning/MNIST
