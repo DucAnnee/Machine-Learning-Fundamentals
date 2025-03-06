@@ -3,3 +3,6 @@ Algorithms/.prettierignore
 *.csv
 /Deep Learning/MNIST
 *.pyc
+Deep Learning/Vision Transformer/An's test.ipynb
+/Deep Learning/Vision Transformer/MNIST
+/Deep Learning/Vision Transformer/oxford-iiit-pet
